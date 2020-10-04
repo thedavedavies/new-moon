@@ -8,7 +8,7 @@ The optimized dark theme for web development.
 
 ## Installation
 
-- Run`curl -O https://raw.githubusercontent.com/taniarascia/new-moon/master/iterm2/new-moon.itermcolors` or save the file manually
+- Run `curl -O https://raw.githubusercontent.com/taniarascia/new-moon/master/iterm2/new-moon.itermcolors` or save the file manually
 - Open `./new-moon.itermcolors`
 - Go to `iTerm2 > Preferences > Profiles > Colors`
 - Select `New Moon` from color presets
